@@ -33,4 +33,11 @@ Para resolver el problema de clasificación de transacciones fraudulentas, se im
 | Tiempo de Inferencia| 5.726 segundos   | 52.976 segundos       |
 | Tamaño del Modelo   | 0.82 MB          | 22.21 MB              |
 
+### Resultados empleando el conjunto de prueba
 
+Para evaluar los modelos empleando el conjunto de test provisto por la competencia de Kaggle, se realizo la carga de los archivos de predicciones y se obtuvieron los siguientes resultados:
+
+| Archivo                   | Private Score | Public Score |
+|---------------------------|---------------|--------------|
+| submission_lightgbm.csv   | 0.885567      | 0.918826     |
+| submission_xgboost.csv    | 0.863551      | 0.903624     |
