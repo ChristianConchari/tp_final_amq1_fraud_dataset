@@ -8,6 +8,8 @@ Para este trabajo práctico se abordó la tarea de la predicción de transaccion
 
 Para resolver el problema de clasificación de transacciones fraudulentas, se implementaron diferentes modelos de aprendizaje supervisado. Se realizaron tareas de preprocesamiento y exploración de datos, ingeniería de features, selección de modelos y ajuste de hiperparámetros. De esa manera, se utilizaron varios notebooks para dividir el trabajo en diferentes etapas.
 
+0. [Análisis del Caso de Estudio](notebooks/case_study_analysis_notebook.ipynb): En este archivo markdown se buscó describir el problema y se detallar las características del dataset. También se justificó la elección de la métrica de evaluación bajo el contexto del problema de detección de fraudes y el desbalanceo de clases en el dataset.
+
 1. [Análisis exploratorio de datos](notebooks/data_exploration_notebook.ipynb): En este notebook se realizó un análisis exploratorio de los datos, se identificaron patrones y se visualizaron las distribuciones de las variables. Se analizaron las variables categóricas y numéricas, se estudiaron las correlaciones y se identificaron posibles features relevantes para la predicción.
 
 2. [Ingeniería de features](notebooks/feature_engineering_notebook.ipynb): En este notebook se realizaron tareas de preprocesamiento y limpieza de datos. Se crearon nuevas features a partir de las variables existentes, se imputaron valores faltantes y se codificaron las variables categóricas. 
