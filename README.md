@@ -2,7 +2,7 @@
 
 Este repositorio contiene el trabajo práctico final de la materia Aprendizaje de Máquina I de la Especialización en Inteligencia Artificial (CEIA) de la Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA). 
 
-Para este trabajo práctico se abordó la tarea de la predicción de transacciones fraudulentas en tarjetas de crédito. El dataset utilizado es provisto por Vesta Corporation y contiene un conjunto de datos de transacciones de comercio electrónico, con el objetivo de predecir si una transacción es fraudulenta o no. El dataset fue obtenido de la competencia de Kaggle [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection).
+Para este trabajo práctico se abordó la tarea de la predicción de transacciones fraudulentas en tarjetas de crédito. El dataset utilizado es provisto por Vesta Corporation y contiene un conjunto de datos de transacciones de comercio electrónico, con el objetivo de predecir si una transacción es fraudulenta o no. El dataset fue obtenido de la competencia de Kaggle [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection) [1].
 
 # Estrategia de resolución
 
@@ -50,3 +50,7 @@ Para evaluar los modelos empleando el conjunto de test provisto por la competenc
 |---------------------------|---------------|--------------|
 | submission_lightgbm.csv   | 0.885567      | 0.918826     |
 | submission_xgboost.csv    | 0.863551      | 0.903624     |
+
+# References
+
+[1] A. Howard, B. Bouchon-Meunier, IEEE CIS, inversion, J. Lei, Lynn@Vesta, Marcus2010, and Prof. H. Abbass, "IEEE-CIS Fraud Detection," Kaggle, 2019. [Online]. Available: https://kaggle.com/competitions/ieee-fraud-detection.
