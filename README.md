@@ -32,7 +32,7 @@ Para resolver el problema de clasificación de transacciones fraudulentas, se im
 | Recall (Clase 1)    | 0.4581           | 0.6424                |
 | F1-Score (Clase 1)  | 0.6062           | 0.7555                |
 | AUC de Validación   | 0.9409           | 0.9587                |
-| Tiempo de Inferencia| 5.726 segundos   | 52.976 segundos       |
+| Tiempo de Inferencia| 5.726 segundos   | 50.936 segundos       |
 | Tamaño del Modelo   | 0.82 MB          | 22.21 MB              |
 
 ### Curvas ROC de los Modelos
