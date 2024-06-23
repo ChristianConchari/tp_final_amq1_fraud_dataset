@@ -35,11 +35,11 @@ Para resolver el problema de clasificación de transacciones fraudulentas, se im
 
 ### Curvas ROC de los Modelos
 
-![Curva ROC LightGBM](images/roc_auc_lightgbm_model.png)
+![Curva ROC LightGBM](./images/roc_auc_lightgbm_model.png)
 
 
 
-![Curva ROC XGBoost](images/roc_auc_xgboost_model.png)
+![Curva ROC XGBoost](./images/roc_auc_xgboost_model.png)
 
 ### Resultados empleando el conjunto de prueba
 
